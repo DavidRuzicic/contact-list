@@ -1,0 +1,8 @@
+.contact-list-table-container{
+    width: 80%;
+    margin: auto;
+}
+.contact-list-btn-container{
+    display: flex;
+    justify-content: space-evenly;
+}
